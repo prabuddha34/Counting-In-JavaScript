@@ -30,11 +30,10 @@
 
 ---
 
-## 🖼️ Demo
-
-💻 [Live Demo on GitHub Pages](https://your-username.github.io/your-repo-name/) *(replace this with your real link)*
+## 🖼️ Video
 
 ---
 
-## 📂 Project Structure
+
+https://github.com/user-attachments/assets/f779e508-2fce-4f6d-aa4b-60efe7d8e828
 
