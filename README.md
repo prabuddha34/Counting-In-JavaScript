@@ -6,9 +6,7 @@
   Increment, decrement, or reset the counter in a clean and responsive UI.
 </p>
 
-<div align="center">
-  <img src="screenshot.png" alt="Counter App Screenshot" width="500"/>
-</div>
+
 
 ---
 
