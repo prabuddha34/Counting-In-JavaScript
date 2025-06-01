@@ -1,6 +1,6 @@
 <h1 align="center">🔢 Counter Web App</h1>
 
-<p align="center">
+<p align="center"
   A sleek and interactive counter application built using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>.
   <br>
   Increment, decrement, or reset the counter in a clean and responsive UI.
